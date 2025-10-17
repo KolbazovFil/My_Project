@@ -41,6 +41,7 @@ namespace My_Project
             store.AddPhone(new Phone("Galaxy S21", "Samsung", 55000.99m, 10));
             store.AddPhone(new Phone("iPhone 13", "Apple", 105009.99m, 10));
             store.AddPhone(new Phone("Pixel 6", "Google", 32599.99m, 10));
+            store.AddPhone(new Phone("X35", "Huawei", 500000.00m, 100));
 
             while (running)
             {
